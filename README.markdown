@@ -142,13 +142,5 @@ GridSearchCV optimized XGBoost:
 4. Push: `git push origin my-feature`.
 5. Open a pull request.
 
-Follow the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/).
 
-## License
-MIT License - see [LICENSE.md](LICENSE.md).
 
-## Credits
-- **Author**: [Your Name] ([GitHub Profile](https://github.com/your-username))
-- **Dataset**: 2025 Kaggle Playground Series
-- **Tools**: XGBoost, scikit-learn, pandas, numpy
-- **Kaggle Score**: Test RMSLE: 0.06013
