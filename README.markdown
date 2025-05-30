@@ -13,8 +13,6 @@ This repository contains code for predicting calories burned using an **XGBoost*
 - [Model Training and Prediction](#model-training-and-prediction)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
 
 ## Introduction
 This project predicts calories burned during physical activity using an XGBoost regression model. The synthetic dataset from the 2025 Kaggle Playground Series includes features like `Sex`, `Age`, `Height`, `Weight`, `Duration`, `Heart_Rate`, and `Body_Temp`. Feature selection and hyperparameter tuning optimized performance, addressing underutilized features (`Age`, `Body_Temp`). The final model achieved a validation RMSLE of **0.0616**, R² of **0.9966**, and a Kaggle test RMSLE of **0.06013**.
